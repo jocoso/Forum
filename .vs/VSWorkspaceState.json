@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\blog",
+    "\\blog\\adralak-announcement",
     "\\src",
+    "\\src\\components",
     "\\src\\pages",
     "\\src\\pages\\blog"
   ],
