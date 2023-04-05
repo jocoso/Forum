@@ -1,11 +1,12 @@
 body {
     background-color: #EDA909;
-    background-image: url("../images/background_texture.png")
+    background-image: url("../images/background_texture.png");
+    background-attachment: fixed;
 }
 
 .container {
     margin: auto;
-    max-width: 500px;
+    max-width: 700px;
     font-family: 'Trebuchet MS';
 }
 

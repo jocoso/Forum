@@ -1,10 +1,10 @@
 import * as React from 'react'
-
+import { container } from './contentcard.module.css'
 
 const ContentCard = ({ children }) => {
     return (
-        <div>
-            
+        <div className={container}>
+            { children }
         </div>
     )
 }

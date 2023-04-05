@@ -1,0 +1,11 @@
+.showcase-data {
+    display: flex;
+    justify-content: space-between;
+}
+
+.showcase-data > div {
+    padding: 5px;
+    text-align: center;
+    background: gray;
+    border-radius: 15px;
+}
